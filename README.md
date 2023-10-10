@@ -1,4 +1,4 @@
-# Exercices sur git
+# Les carottes c'est cool
 
 Il existe plusieurs outils permettant le versionning de fichiers. 
 Il s'avère qu'aujourd'hui, l'outil le plus utilisé est git.
